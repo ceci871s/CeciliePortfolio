@@ -413,6 +413,7 @@ footer a{
     font-family: 'Source Sans Pro', sans-serif;
     display: flex;
     justify-content: center;
+    padding: 2px;
 }
 
 .kontaktmobil {
