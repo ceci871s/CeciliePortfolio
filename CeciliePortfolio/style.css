@@ -507,6 +507,13 @@ footer a{
     
 }
 
+
+.containerprojekterlogoer iframe {
+    width: 100%;
+    margin: 0;
+    height: 200px;
+}
+
 .stepklip {
     width: 100%;  
 
@@ -573,6 +580,9 @@ transform: scale(1.5);
  
 
 }
+
+
+
 
 @media (min-width: 380px) {
 
@@ -1194,6 +1204,7 @@ transform: scale(1.5);
         padding-right: 140px;
     }
 
+
  }
 
 
@@ -1273,6 +1284,10 @@ transform: scale(1.5);
     .howtovideo {
         padding-left: 180px;
         padding-right: 180px;
+    }
+
+    .containerprojekterlogoer iframe {
+        height: 300px;
     }
 
 }
