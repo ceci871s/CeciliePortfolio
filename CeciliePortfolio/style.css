@@ -498,8 +498,13 @@ footer a{
 
 .howtovideo {
     width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     padding-left: 50px;
     padding-right: 50px;
+    height: 200px;
+    
 }
 
 .stepklip {
@@ -586,7 +591,7 @@ transform: scale(1.5);
     /*LIDT OM OG KNAPPER*/  
 
     .underoverskrift{
-        font-size: 40px;
+        font-size: 34px;
     }
 
     .underoverskrifttekst {
@@ -672,6 +677,11 @@ transform: scale(1.5);
     .containerprojekter img {
         height: 200px;
     }
+    .howtovideo {
+        height: 270px;
+        
+    }
+
 
 }
 
@@ -730,6 +740,12 @@ transform: scale(1.5);
     .containerprojekterlogoer {
         padding-left: 90px;
         padding-right: 90px;
+    }
+
+    .howtovideo {
+        height: 350px;
+        padding-left: 80px;
+        padding-right: 80px;
     }
 
 }
@@ -1052,7 +1068,12 @@ transform: scale(1.5);
     .konceptersvar {
         width: 70%;
     }
- 
+    
+    .howtovideo {
+        height: 500px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
 
 }
 
@@ -1168,6 +1189,11 @@ transform: scale(1.5);
 
     }
 
+    .howtovideo {
+        padding-left: 140px;
+        padding-right: 140px;
+    }
+
  }
 
 
@@ -1229,11 +1255,7 @@ transform: scale(1.5);
     }
 
     
-    .howtovideo {
-        padding-left: 100px;
-        padding-right: 100px;
-    }
-
+    
     /*------------------------------------------*/
     /*ART OG KONCEPTER SIDE*/
 
@@ -1246,6 +1268,11 @@ transform: scale(1.5);
     .konceptersvar {
         width: 60%;
    
+    }
+
+    .howtovideo {
+        padding-left: 180px;
+        padding-right: 180px;
     }
 
 }
@@ -1325,10 +1352,12 @@ transform: scale(1.5);
         padding-left: 250px;
         padding-right: 250px;
     }
+
     .howtovideo {
-        padding-left: 150px;
-        padding-right: 150px;
+        padding-left: 200px;
+        padding-right: 200px;
     }
+
 
 
 }
@@ -1414,6 +1443,12 @@ transform: scale(1.5);
         width: 60%;
    
     }
+
+    .howtovideo {
+        padding-left: 300px;
+        padding-right: 300px;
+    }
+
 
 
 } 
