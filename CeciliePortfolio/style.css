@@ -343,6 +343,7 @@ footer a{
 #sectionban02 {
     margin-top: -5px;
     padding-bottom: 40px;
+    background-image: linear-gradient(360deg, #fae26b93 0%, #b587ff96 77%); 
     
     
 }
@@ -409,7 +410,7 @@ footer a{
 
 .kontaktinfo {
     font-size: 20px;
-    font-family: 'Source Sans Pro', sans-serif;s
+    font-family: 'Source Sans Pro', sans-serif;
     display: flex;
     justify-content: center;
 }
@@ -458,6 +459,7 @@ footer a{
 
 #sectionprojekter02 {
     background-image: linear-gradient(360deg, #fae26b93 0%, #b587ff96 77%); 
+    padding-bottom: 40px;
 }
 
 .skoleprojekterbilleder {
